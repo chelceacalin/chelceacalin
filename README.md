@@ -16,6 +16,7 @@
          </a>
 </div>
 
+<br> <br><br>
 
 - 🔭 I’m currently studying Business Informatics at CSIE ASE.
 - 🌱 I’m currently learning more about DataBases.
