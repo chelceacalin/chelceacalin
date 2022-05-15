@@ -1,6 +1,6 @@
 <p align="center">⚡Hello there, I'm Calin.⚡</p>
 
-<pre>
+<pre align="center">
           <a href="https://www.linkedin.com/in/chelceacalin/">
             <img align="center"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
           </a>
