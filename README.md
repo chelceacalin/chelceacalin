@@ -1,8 +1,8 @@
 <p align="center">⚡Hello there, I'm Calin.⚡</p>
 
-<pre align="center">
+
           <a href="https://www.linkedin.com/in/chelceacalin/">
-            <img align="center"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+            <img align="center"  width="22px"  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
           </a>
           <a href="https://github.com/chelceacalin">
             <img align="center"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -15,7 +15,7 @@
           <a href="https://www.facebook.com/chelcea.calin/">
             <img align="center"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
           </a>
-</pre>
+
 
 
 - 🔭 I’m currently studying Business Informatics at CSIE ASE.
