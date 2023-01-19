@@ -19,7 +19,7 @@
 <br> <br>
 
 ### - 🔭 I’m currently studying Business Informatics at CSIE ASE.
-### - 🌱 I’m currently learning more about DataBases.
+### - 🌱 I’m currently learning more about Data Warehouses, ETL and Java.
 ### - ⚡ Fun fact: 2 years ago I knew little to nothing about programming.
 
 </div>
