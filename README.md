@@ -7,7 +7,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chelceacalin&show_icons=true&locale=en" alt="chelceacalin" /></p>
+
 <br> <br>
 
 ### - 🔭 I’m currently studying Business Informatics at CSIE ASE.
@@ -19,7 +19,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chelceacalin&show_icons=true&locale=en&layout=compact" alt="chelceacalin" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chelceacalin" alt="chelceacalin" /></a> </p>
+ /></a> </p>
 
 
 
