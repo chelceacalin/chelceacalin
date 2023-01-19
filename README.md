@@ -4,11 +4,6 @@
   <a href="https://www.linkedin.com/in/chelceacalin/">
             <img align="center"  width="22px"  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
           </a>
-  
-<a href="https://www.linkedin.com/in/chelceacalin/">
-            <img align="center"  width="22px"  align="center" src="[https://icons8.com/icon/114445/linkedin-circled](https://icons8.com/icon/114445/linkedin-circled)" />
-          </a>
-  
 
  <a href="https://github.com/chelceacalin">
             <img align="center"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -27,6 +22,7 @@
 ### - 🔭 I’m currently studying Business Informatics at CSIE ASE.
 ### - 🌱 I’m currently learning more about Data Warehouses, ETL and Java.
 ### - ⚡ Fun fact: 2 years ago I knew little to nothing about programming.
+### - ✨ One Year Update: I learned so much, but there is still so much to learn!
 
 </div>
 
