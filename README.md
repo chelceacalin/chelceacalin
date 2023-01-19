@@ -6,7 +6,7 @@
           </a>
   
 <a href="https://www.linkedin.com/in/chelceacalin/">
-            <img align="center"  width="22px"  align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://icons8.com/icon/114445/linkedin-circled)" />
+            <img align="center"  width="22px"  align="center" src="https://icons8.com/icon/114445/linkedin-circled" />
           </a>
   
 
