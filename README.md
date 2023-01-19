@@ -1,4 +1,4 @@
-<p align="center"  style="font-size:50px">⚡Hello there, I'm Calin.⚡</p>
+<h1 align="center"  style="font-size:50px">⚡Hello there, I'm Calin.⚡</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/chelceacalin/">
