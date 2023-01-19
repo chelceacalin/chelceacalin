@@ -4,8 +4,11 @@
   <a href="https://www.linkedin.com/in/chelceacalin/">
             <img align="center"  width="22px"  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
           </a>
-  ![linkedin](https://user-images.githubusercontent.com/76866499/213404606-80011baa-a732-4463-ae05-6880893e5925.svg)
-
+  
+<a href="https://www.linkedin.com/in/chelceacalin/">
+            <img align="center"  width="22px"  align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://icons8.com/icon/114445/linkedin-circled)" />
+          </a>
+  
 
  <a href="https://github.com/chelceacalin">
             <img align="center"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
