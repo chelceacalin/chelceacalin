@@ -19,6 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chelceacalin&show_icons=true&theme=radical" />
 ![Calins's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelceacalin&show_icons=true&theme=radical)
 
 
