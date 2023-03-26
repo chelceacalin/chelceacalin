@@ -19,8 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelceacalin&layout=compact&theme=dark" />
-
-
-
+<div style="text-align:center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelceacalin&layout=compact&theme=dark" />
+</div>
 
