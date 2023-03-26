@@ -1,10 +1,4 @@
 <h1 align="center"  style="font-size:50px">⚡Hello there, I'm Calin.⚡</h1>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/chelceacalin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chelceacalin/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/chelcea.calin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chelcea.calin/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/chelceacalin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chelceacalin/" height="30" width="40" /></a>
-</p>
 
 <br>
 
@@ -13,6 +7,9 @@
 🔭 I’m currently studying Business Informatics at CSIE ASE.<br>🌱 I’m currently learning more about Java.<br>⚡ Fun fact: 2 years ago I knew little to nothing about programming.<br>✨ One Year Update: I learned so much, but there is still so much to learn!
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/chelcea.calin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chelceacalin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chelceacalin/) 
 
 
 </div>
