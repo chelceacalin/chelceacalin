@@ -23,4 +23,6 @@
 <div >
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelceacalin&layout=compact&theme=dark" />
+  ![](https://komarev.com/ghpvc/?username=chelceacalin)
+
 </div>
